@@ -20,4 +20,7 @@ Profit Analysis by Monthly or Yearly:
 
 ![image](https://github.com/swemasum/PowerBI-and-MySQL-Sales-Insights/assets/43910072/ac9187ff-2831-4210-98d8-49888a03f436)
 
+![image](https://github.com/swemasum/PowerBI-and-MySQL-Sales-Insights/assets/43910072/a3222a0d-6ce1-4531-95c0-3533c1ef396d)
+
+
 
